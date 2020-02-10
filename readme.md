@@ -3,7 +3,7 @@
 
 ## Setup
 
-	Clone the repo
+	Clone the repo: https://github.com/jsoh99/HelloChange.git
 	
 ### Run Locally
 
